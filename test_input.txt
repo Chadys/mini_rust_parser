@@ -1,0 +1,8 @@
+{"type":"error", "description": "foobar", "items":[1, 2]}
+{"type": "success","random": 5.0 }
+
+{"type": "error", "status": "42"}
+{"type": "error", "status": "42"
+{"status": "42"}
+{"type": [{"key": "value"}, 3]}
+{"type": "error", "type": "success"}
